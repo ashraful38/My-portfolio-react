@@ -1,0 +1,3 @@
+React typing animation effect
+
+https://dev.to/techfortified/react-typing-animation-effect-4gk
